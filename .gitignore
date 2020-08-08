@@ -1,2 +1,4 @@
 log.txt
-/dur2
+/dur2 
+*.txt
+# ignores all text files^
